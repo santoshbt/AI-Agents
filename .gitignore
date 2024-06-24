@@ -2,3 +2,9 @@
 /.vscode
 /venv
 /.env
+__pycache__/tools.cpython-310.pyc
+db/chroma.sqlite3
+db/c31741bd-72df-44c0-b786-a23eff0d3bdd/data_level0.bin
+db/c31741bd-72df-44c0-b786-a23eff0d3bdd/header.bin
+db/c31741bd-72df-44c0-b786-a23eff0d3bdd/length.bin
+db/c31741bd-72df-44c0-b786-a23eff0d3bdd/link_lists.bin
